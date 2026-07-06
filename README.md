@@ -1,16 +1,18 @@
-## Hi there 👋
+# Dmitrii Andreev 👋
 
-<!--
-**d1me3us/d1me3us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Full-Stack Developer with 25+ years of experience.
 
-Here are some ideas to get you started:
+## I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** PHP, Python, JavaScript, TypeScript, Golang, SQL
+**Frontend:** JavaScript, TypeScript, React JS, Next.js, Astro, Vue.js, Vite, Webpack, Gulp, Jest, Vitest, Tailwind, Bootstrap CSS, CSS3, SCSS/SASS, LESS, HTML
+**Backend:** PHP, Node.js, Python, Fastify, FastAPI
+**Databases:** PostgreSQL, MySQL, SQLite, Redis
+**Design/UI:** Figma, Photoshop
+**DevOps:** Debian/Ubuntu, Docker, Terraform, AWS, GCS, Supabase, Selectel, Yandex Cloud, Grafana, Loki, Alloy, Nginx, Caddy
+
+## Get in Touch
+
+**Web:** [Stratobytes](https://stratobytes.com)
+**Facebook:** [https://www.facebook.com/share/178Vgdr4ht/?mibextid=wwXIfr](https://www.facebook.com/share/178Vgdr4ht/?mibextid=wwXIfr)
+**Instagram:** [@d1me3us](https://www.instagram.com/d1me3us)
