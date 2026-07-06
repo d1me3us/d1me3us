@@ -13,6 +13,6 @@ I am a Senior Full-Stack Developer with 25+ years of experience.
 
 ## Get in Touch
 
-**Web:** [Stratobytes](https://stratobytes.com)
+**Web:** [Stratobytes.com](https://stratobytes.com)
 **Facebook:** [https://www.facebook.com/share/178Vgdr4ht/?mibextid=wwXIfr](https://www.facebook.com/share/178Vgdr4ht/?mibextid=wwXIfr)
 **Instagram:** [@d1me3us](https://www.instagram.com/d1me3us)
