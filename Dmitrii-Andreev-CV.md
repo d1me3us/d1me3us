@@ -13,7 +13,7 @@ Full-Stack Developer with 25+ years of experience, delivering dozens of end-to-e
 **Backend:** PHP, Node.js, Python, Fastify, FastAPI, Hono, Laravel, Symfony  
 **Databases:** PostgreSQL, MySQL, SQLite, Redis  
 **Design/UI:** Figma, Photoshop  
-**DevOps:** Debian/Ubuntu, Docker, Terraform, AWS, GCS, Cloudflare, Supabase, Selectel, Grafana, Loki, Alloy, Nginx, Caddy  
+**DevOps:** Debian/Ubuntu, Docker, Terraform, AWS, GCP, Cloudflare, Supabase, Selectel, Grafana, Loki, Alloy, Nginx, Caddy  
 
 ## Education
 

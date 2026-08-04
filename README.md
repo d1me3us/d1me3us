@@ -9,7 +9,7 @@ I am a Senior Full-Stack Developer with 25+ years of experience.
 **Backend:** PHP, Node.js, Python, Fastify, FastAPI  
 **Databases:** PostgreSQL, MySQL, SQLite, Redis  
 **Design/UI:** Figma, Photoshop  
-**DevOps:** Debian/Ubuntu, Docker, Terraform, AWS, GCS, Supabase, Selectel, Yandex Cloud, Grafana, Loki, Alloy, Nginx, Caddy  
+**DevOps:** Debian/Ubuntu, Docker, Terraform, AWS, GCP, Cloudflare, Supabase, Selectel, Yandex Cloud, Grafana, Loki, Alloy, Nginx, Caddy  
 
 ## Get in Touch
 
