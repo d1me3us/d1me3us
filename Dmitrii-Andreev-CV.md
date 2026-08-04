@@ -9,11 +9,11 @@ Full-Stack Developer with 25+ years of experience, delivering dozens of end-to-e
 ## Skills
 
 **Languages:** PHP, Python, JavaScript, TypeScript, Golang, SQL
-**Frontend:** JavaScript, TypeScript, React JS, Next.js, Astro, Vue.js, Vite, Webpack, Gulp, Jest, Vitest, Tailwind, Bootstrap CSS, CSS3, SCSS/SASS, LESS, HTML
-**Backend:** PHP, Node.js, Python, Fastify, FastAPI, Laravel, Symfony
+**Frontend:** JavaScript, TypeScript, React JS, Vue.js, Next.js, Astro, Vite, Webpack, Gulp, Jest, Vitest, Playwright, Tailwind, Bootstrap CSS, CSS3, SCSS/SASS, LESS, HTML
+**Backend:** PHP, Node.js, Python, Fastify, FastAPI, Hono, Laravel, Symfony
 **Databases:** PostgreSQL, MySQL, SQLite, Redis
 **Design/UI:** Figma, Photoshop
-**DevOps:** Debian/Ubuntu, Docker, Terraform, AWS, GCS, Supabase, Selectel, Yandex Cloud, Grafana, Loki, Alloy, Nginx, Caddy
+**DevOps:** Debian/Ubuntu, Docker, Terraform, AWS, GCS, Cloudflare, Supabase, Selectel, Grafana, Loki, Alloy, Nginx, Caddy
 
 ## Education
 
@@ -57,7 +57,7 @@ Designed and delivered hundreds of websites, promotional microsites, and digital
 ## Preferences
 
 **Location:** Remote or Novi Sad (Serbia)
-**Timezone:** UTC+1 (Amsterdam, Berlin, Paris)
+**Timezone:** UTC+1 (ECT)
 **Language:** English
 
 ## Languages
@@ -72,4 +72,4 @@ Designed and delivered hundreds of websites, promotional microsites, and digital
 **Facebook:** [https://www.facebook.com/share/178Vgdr4ht/?mibextid=wwXIfr](https://www.facebook.com/share/178Vgdr4ht/?mibextid=wwXIfr)  
 **Instagram:** [@d1me3us](https://www.instagram.com/d1me3us)  
 
-<small>Updated: 2026-07-07T20:11:30.733Z</small>
+<small>Updated: 2026-08-04T17:36:18.196Z</small>
