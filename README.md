@@ -14,6 +14,6 @@ I am a Senior Full-Stack Developer with 25+ years of experience.
 ## Get in Touch
 
 **Web:** [Stratobytes.com](https://stratobytes.com)  
-**CV:** [View](https://github.io/d1me3us/Dmitrii-Andreev-CV.md) | [PDF](https://github.io/d1me3us/Dmitrii-Andreev-CV.pdf)   
+**CV:** [View](https://d1me3us.github.io/d1me3us/Dmitrii-Andreev-CV) | [PDF](https://d1me3us.github.io/d1me3us/Dmitrii-Andreev-CV.pdf)   
 **Facebook:** [https://www.facebook.com/share/178Vgdr4ht/?mibextid=wwXIfr](https://www.facebook.com/share/178Vgdr4ht/?mibextid=wwXIfr)  
 **Instagram:** [@d1me3us](https://www.instagram.com/d1me3us)  
