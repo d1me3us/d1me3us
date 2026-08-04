@@ -8,12 +8,12 @@ Full-Stack Developer with 25+ years of experience, delivering dozens of end-to-e
 
 ## Skills
 
-**Languages:** PHP, Python, JavaScript, TypeScript, Golang, SQL
-**Frontend:** JavaScript, TypeScript, React JS, Vue.js, Next.js, Astro, Vite, Webpack, Gulp, Jest, Vitest, Playwright, Tailwind, Bootstrap CSS, CSS3, SCSS/SASS, LESS, HTML
-**Backend:** PHP, Node.js, Python, Fastify, FastAPI, Hono, Laravel, Symfony
-**Databases:** PostgreSQL, MySQL, SQLite, Redis
-**Design/UI:** Figma, Photoshop
-**DevOps:** Debian/Ubuntu, Docker, Terraform, AWS, GCS, Cloudflare, Supabase, Selectel, Grafana, Loki, Alloy, Nginx, Caddy
+**Languages:** PHP, Python, JavaScript, TypeScript, Golang, SQL  
+**Frontend:** JavaScript, TypeScript, React JS, Vue.js, Next.js, Astro, Vite, Webpack, Gulp, Jest, Vitest, Playwright, Tailwind, Bootstrap CSS, CSS3, SCSS/SASS, LESS, HTML  
+**Backend:** PHP, Node.js, Python, Fastify, FastAPI, Hono, Laravel, Symfony  
+**Databases:** PostgreSQL, MySQL, SQLite, Redis  
+**Design/UI:** Figma, Photoshop  
+**DevOps:** Debian/Ubuntu, Docker, Terraform, AWS, GCS, Cloudflare, Supabase, Selectel, Grafana, Loki, Alloy, Nginx, Caddy  
 
 ## Education
 
@@ -56,9 +56,9 @@ Designed and delivered hundreds of websites, promotional microsites, and digital
 
 ## Preferences
 
-**Location:** Remote or Novi Sad (Serbia)
-**Timezone:** UTC+1 (ECT)
-**Language:** English
+**Location:** Remote or Novi Sad (Serbia)  
+**Timezone:** UTC+1 (ECT)  
+**Language:** English  
 
 ## Languages
 

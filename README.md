@@ -8,7 +8,7 @@ I am a Senior Full-Stack Developer with 25+ years of experience.
 **Frontend:** JavaScript, TypeScript, React JS, Next.js, Astro, Vue.js, Vite, Webpack, Gulp, Jest, Vitest, Tailwind, Bootstrap CSS, CSS3, SCSS/SASS, LESS, HTML  
 **Backend:** PHP, Node.js, Python, Fastify, FastAPI  
 **Databases:** PostgreSQL, MySQL, SQLite, Redis  
-**Design/UI:** Figma, Photoshop
+**Design/UI:** Figma, Photoshop  
 **DevOps:** Debian/Ubuntu, Docker, Terraform, AWS, GCS, Supabase, Selectel, Yandex Cloud, Grafana, Loki, Alloy, Nginx, Caddy  
 
 ## Get in Touch
